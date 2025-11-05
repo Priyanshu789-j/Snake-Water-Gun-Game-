@@ -31,8 +31,8 @@ The player competes against the computer, which randomly selects its choice ever
 
 ### 🚀 How to Run
 1. Make sure you have **Python 3+** installed  
-2. Download the file `snake_water_gun.py`  
+2. Download the file `main.py`  
 3. Open a terminal or command prompt in the project folder  
 4. Run the game with:
    ```bash
-   python snake_water_gun.py
+   main.py
